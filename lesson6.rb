@@ -1,5 +1,4 @@
-total_price = 110
-
+total_price = 1120
 if total_price > 100
   puts "みかんを購入。所持金に余りあり。"
 elsif total_price == 100
